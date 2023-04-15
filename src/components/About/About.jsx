@@ -8,4 +8,4 @@ const About = () => {
     );
 };
 
-export default About;<h1>This is pure about page, Don't be foolish, seriously?</h1>
+export default About;

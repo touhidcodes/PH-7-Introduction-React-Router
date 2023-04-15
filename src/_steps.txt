@@ -1,0 +1,5 @@
+Steps to define a route
+
+1. Component
+2. Set Route
+3. Set Link
